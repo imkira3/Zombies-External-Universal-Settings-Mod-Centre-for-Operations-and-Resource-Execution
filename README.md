@@ -1,2 +1,2 @@
-# ZEUS-Mod-CORE
-Zombies External Universal Settings Mod Centre for Operations and Resource Execution is a collection of mod menus designed for the Call of Duty series. For more information, please view the appropriate README file.
+# Zombies External Universal Settings Mod Centre for Operations and Resource Execution Version ZPS3v01
+Zombies External Universal Settings Mod Centre for Operations and Resource Execution Version ZPS3v01 is a mod menu for Call of Duty: Black Ops. This will run on any system with a launcher and some simple modifications, however this version is currently configured to run on the PS3 game console. For video previews, more releases on other consoles and instructions for installation, please view the relevant video as per your version on my YouTube channel: imkira3 at YouTube.com
